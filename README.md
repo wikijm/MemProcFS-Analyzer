@@ -189,13 +189,13 @@ https://ericzimmerman.github.io/
 AppCompatCacheParser v1.5.1.0 (.NET 9)  
 https://ericzimmerman.github.io/  
 
-ClamAV - Download &#8594; Windows &#8594; clamav-1.4.3.win.x64.msi (2025-06-17)  
+ClamAV - Download --> Windows --> clamav-1.5.1.win.x64.msi (2025-10-15)  
 https://www.clamav.net/downloads    
 
-Dokany Library Bundle v2.3.0.1000 (2025-04-19)  
+Dokany File System Library v2.3.1.1000 (2025-09-28)  
 https://github.com/dokan-dev/dokany/releases/latest &#8594; DokanSetup.exe  
 
-Elasticsearch 9.0.2 (2025-06-03)  
+Elasticsearch 9.1.5 (2025-10-06)  
 https://www.elastic.co/downloads/elasticsearch  
 
 entropy v1.1 (2023-07-28)  
@@ -210,16 +210,16 @@ https://github.com/dfinke/ImportExcel
 IPinfo CLI 3.3.1 (2024-03-01)    
 https://github.com/ipinfo/cli  
 
-jq v1.8.0 (2025-06-01)   
+jq v1.8.1 (2025-07-01)  
 https://github.com/stedolan/jq  
 
-Kibana 9.0.2 (2025-06-03)    
+Kibana 9.1.5 (2025-10-06)   
 https://www.elastic.co/downloads/kibana  
 
 llnk_parser v0.4.1 (2025-01-02)  
 https://github.com/AbdulRhmanAlfaifi/lnk_parser  
 
-MemProcFS v5.15.0 - The Memory Process File System (2025-06-22)    
+MemProcFS v5.16.4 - The Memory Process File System (2025-10-21)    
 https://github.com/ufrisk/MemProcFS  
 
 RECmd v2.1.0.0 (.NET 9)  
